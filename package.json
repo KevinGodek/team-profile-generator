@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RyanEllingson/Team-Profile-Generator.git"
+    "url": "https://github.com/KevinGodek/team-profile-generator"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/RyanEllingson/Team-Profile-Generator/issues"
+    "url": "https://github.com/KevinGodek/team-profile-generator"
   },
-  "homepage": "https://github.com/RyanEllingson/Team-Profile-Generator#readme",
+  "homepage": "https://github.com/KevinGodek/team-profile-generator",
   "dependencies": {
     "inquirer": "^7.0.0",
     "jest": "^24.9.0"
